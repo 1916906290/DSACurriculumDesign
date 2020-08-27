@@ -1,0 +1,49 @@
+﻿生成启动时间为 2020/8/17 22:05:34。
+     1>项目“\\Mac\Home\Desktop\DSACurriculumDesign\Project\version0.1_inC\Huffman_En-Decoder\Huffman_En-Decoder\Huffman_En-Decoder.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>\\mac\home\desktop\dsacurriculumdesign\project\version0.1_inc\huffman_en-decoder\huffman_en-decoder\main.c(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>\\mac\home\desktop\dsacurriculumdesign\project\version0.1_inc\huffman_en-decoder\huffman_en-decoder\main.c(27): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(261) : 参见“gets”的声明
+     1>\\mac\home\desktop\dsacurriculumdesign\project\version0.1_inc\huffman_en-decoder\huffman_en-decoder\main.c(30): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(261) : 参见“gets”的声明
+     1>\\mac\home\desktop\dsacurriculumdesign\project\version0.1_inc\huffman_en-decoder\huffman_en-decoder\main.c(37): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(261) : 参见“gets”的声明
+     1>\\mac\home\desktop\dsacurriculumdesign\project\version0.1_inc\huffman_en-decoder\huffman_en-decoder\main.c(50): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(261) : 参见“gets”的声明
+     1>\\mac\home\desktop\dsacurriculumdesign\project\version0.1_inc\huffman_en-decoder\huffman_en-decoder\main.c(57): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(261) : 参见“gets”的声明
+     1>\\mac\home\desktop\dsacurriculumdesign\project\version0.1_inc\huffman_en-decoder\huffman_en-decoder\main.c(66): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(261) : 参见“gets”的声明
+     1>\\mac\home\desktop\dsacurriculumdesign\project\version0.1_inc\huffman_en-decoder\huffman_en-decoder\main.c(73): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(261) : 参见“gets”的声明
+     1>\\mac\home\desktop\dsacurriculumdesign\project\version0.1_inc\huffman_en-decoder\huffman_en-decoder\main.c(121): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>\\mac\home\desktop\dsacurriculumdesign\project\version0.1_inc\huffman_en-decoder\huffman_en-decoder\main.c(249): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 参见“strcpy”的声明
+     1>\\mac\home\desktop\dsacurriculumdesign\project\version0.1_inc\huffman_en-decoder\huffman_en-decoder\main.c(279): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>\\mac\home\desktop\dsacurriculumdesign\project\version0.1_inc\huffman_en-decoder\huffman_en-decoder\main.c(322): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>\\mac\home\desktop\dsacurriculumdesign\project\version0.1_inc\huffman_en-decoder\huffman_en-decoder\main.c(338): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>\\mac\home\desktop\dsacurriculumdesign\project\version0.1_inc\huffman_en-decoder\huffman_en-decoder\main.c(347): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : 参见“strcat”的声明
+     1>\\mac\home\desktop\dsacurriculumdesign\project\version0.1_inc\huffman_en-decoder\huffman_en-decoder\main.c(361): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 参见“strcpy”的声明
+     1>\\mac\home\desktop\dsacurriculumdesign\project\version0.1_inc\huffman_en-decoder\huffman_en-decoder\main.c(407): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>\\mac\home\desktop\dsacurriculumdesign\project\version0.1_inc\huffman_en-decoder\huffman_en-decoder\main.c(422): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>\\mac\home\desktop\dsacurriculumdesign\project\version0.1_inc\huffman_en-decoder\huffman_en-decoder\main.c(456): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\Mac\Home\Desktop\DSACurriculumDesign\Project\version0.1_inC\Huffman_En-Decoder\Debug\Huffman_En-Decoder.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"\\Mac\Home\Desktop\DSACurriculumDesign\Project\version0.1_inC\Huffman_En-Decoder\Debug\Huffman_En-Decoder.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\Mac\Home\Desktop\DSACurriculumDesign\Project\version0.1_inC\Huffman_En-Decoder\Debug\Huffman_En-Decoder.lib" /MACHINE:X86 Debug\main.obj
+         Huffman_En-Decoder.vcxproj -> \\Mac\Home\Desktop\DSACurriculumDesign\Project\version0.1_inC\Huffman_En-Decoder\Debug\Huffman_En-Decoder.exe
+     1>已完成生成项目“\\Mac\Home\Desktop\DSACurriculumDesign\Project\version0.1_inC\Huffman_En-Decoder\Huffman_En-Decoder\Huffman_En-Decoder.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.52
